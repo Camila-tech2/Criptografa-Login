@@ -1,0 +1,5 @@
+[{"login":"camila@gmail.com","senha":"123"},
+{"login":"danilo@gmail.com","senha":"gatinho"},
+{"login":"lucca@gmail.com","senha":"emo123"},
+{"login":"kelly@gmail.com","senha":"12345"},
+{"login":"wesley@gmail.com","senha":"7890"}]
